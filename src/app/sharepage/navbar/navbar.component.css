@@ -1,0 +1,11 @@
+.navbar-nav .nav-link {
+  /* color: green; */
+  color: var(--secondary-color);
+}
+
+
+.navbar-nav .nav-link.active-link {
+  /* color: green; */
+  color: var(--primary-color);
+  text-decoration: underline;   /* pour les traits sous les onglets  */
+}
